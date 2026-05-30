@@ -34,7 +34,7 @@ I love the idea of building things from scratch — turning ideas into working p
 ---
  Let's Connect
  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SoldierScarL)
 
 ---
 <p align="center">
