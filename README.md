@@ -13,10 +13,6 @@ I love the idea of building things from scratch — turning ideas into working p
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 > More to come as I keep learning! 📚
 ---
-📊 GitHub Stats
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoldierScarL&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoldierScarL&layout=compact&theme=tokyonight&hide_border=true)
----
 🌟 What I'm Working On
 🔨 Brainstorming and building my first Java projects
 📖 Deepening my understanding of core programming concepts
