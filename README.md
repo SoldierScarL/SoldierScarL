@@ -1,43 +1,42 @@
-Hey there! I'm Samarth
-Fresh out of 12th standard | Exploring colleges & branches |  Powered by Java
----
-About Me
-I'm a curious and driven individual who just completed my 12th standard and is now on an exciting journey — exploring 
+# Hi there, I'm Samarth Mishra 👋
 
-different colleges, branches, and possibilities in the world of technology.
+🎓 **ECE Student at VIT Chennai** | ⚛️ **Quantum Computing & Hardware Enthusiast**
 
-I love the idea of building things from scratch — turning ideas into working projects is what excites me the most.
-
- Currently exploring: Computer Science & Engineering branches
- 
- Interested in: Building new projects and solving real-world problems
- 
- Ask me about: Java, or literally anything — I'm always up for a conversation!
- 
- Goal: Create, learn, and grow one project at a time
- 
----
- Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-> More to come as I keep learning! 📚
-> 
----
- What I'm Working On
- 
- Brainstorming and building my first Java projects
- 
- Deepening my understanding of core programming concepts
- 
- Figuring out which field of CS excites me the most
- 
----
- Let's Connect
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SoldierScarL)
+I am an Electronics and Communication Engineering (ECE) student at **Vellore Institute of Technology (VIT), Chennai**[cite: 201]. I am passionate about bridging classical hardware design with cutting-edge quantum computing, embedded systems, and software development.
 
 ---
-<p align="center">
-  <i>"Every expert was once a beginner."</i><br/>
-  <b>— Starting my journey, one line of code at a time. 🚀</b>
-</p>
+
+### 🌐 Connect with Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/soldierscarl/
+- 📧 **Email:** samarthmishra2724@gmail.com 
+
+---
+
+### 🛠️ Technical Skills
+
+#### **Electronics & Hardware Design**
+- **Microprocessors & Microcontrollers:** 8085, 8086, ARM, ESP32, Arduino, Raspberry Pi
+- **CAD & Circuit Design:** KiCAD, Proteus, LTspice, Eagle PCB Design, AutoCAD
+- **Hardware Analysis:** Digital Logic Circuitry, Signal Processing, Microprocessor Architecture
+
+#### **Programming & Software**
+- **Languages:** Python, Java, C / C++
+- **Focus Areas:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Embedded Programming
+
+#### **Quantum Physics & Computing**
+- **Quantum Foundations:** Superposition, Quantum Entanglement, Quantum Phase Kickback, Quantum Parallelism[cite: 6, 43, 186]
+- **SDKs & Tools:** IBM Qiskit,Quantum Circuit Design[cite: 1, 134]
+- **Algorithms:** Grover's Search, Deutsch-Jozsa, Bernstein-Vazirani, Simon's Algorithm[cite: 14, 16]
+
+---
+
+### 🎓 Education
+- **B.Tech in Electronics and Communication Engineering (ECE)**
+  *Vellore Institute of Technology (VIT), Chennai*[cite: 201]
+
+---
+
+### 📌 Current Focus & Interests
+- ⚡ Designing hardware circuits and embedded system prototypes.
+- 🔬 Developing quantum computing algorithms and simulations using Qiskit[cite: 1, 134].
+- 🚀 Participating in hackathons and building innovative engineering solutions[cite: 1, 201].
