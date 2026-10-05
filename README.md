@@ -2,7 +2,7 @@
 
 🎓 **ECE Student at VIT Chennai** | ⚛️ **Quantum Computing & Hardware Enthusiast**
 
-I am an Electronics and Communication Engineering (ECE) student at **Vellore Institute of Technology (VIT), Chennai**[cite: 201]. I am passionate about bridging classical hardware design with cutting-edge quantum computing, embedded systems, and software development.
+I am an Electronics and Communication Engineering (ECE) student at **Vellore Institute of Technology (VIT), Chennai**. I am passionate about bridging classical hardware design with cutting-edge quantum computing, embedded systems, and software development.
 
 ---
 
@@ -24,19 +24,19 @@ I am an Electronics and Communication Engineering (ECE) student at **Vellore Ins
 - **Focus Areas:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Embedded Programming
 
 #### **Quantum Physics & Computing**
-- **Quantum Foundations:** Superposition, Quantum Entanglement, Quantum Phase Kickback, Quantum Parallelism[cite: 6, 43, 186]
-- **SDKs & Tools:** IBM Qiskit,Quantum Circuit Design[cite: 1, 134]
-- **Algorithms:** Grover's Search, Deutsch-Jozsa, Bernstein-Vazirani, Simon's Algorithm[cite: 14, 16]
+- **Quantum Foundations:** Superposition, Quantum Entanglement, Quantum Phase Kickback, Quantum Parallelism
+- **SDKs & Tools:** IBM Qiskit,Quantum Circuit Design
+- **Algorithms:** Grover's Search, Deutsch-Jozsa, Bernstein-Vazirani, Simon's Algorithm
 
 ---
 
 ### 🎓 Education
 - **B.Tech in Electronics and Communication Engineering (ECE)**
-  *Vellore Institute of Technology (VIT), Chennai*[cite: 201]
+  *Vellore Institute of Technology (VIT), Chennai*
 
 ---
 
 ### 📌 Current Focus & Interests
 - ⚡ Designing hardware circuits and embedded system prototypes.
-- 🔬 Developing quantum computing algorithms and simulations using Qiskit[cite: 1, 134].
-- 🚀 Participating in hackathons and building innovative engineering solutions[cite: 1, 201].
+- 🔬 Developing quantum computing algorithms and simulations using Qiskit.
+- 🚀 Participating in hackathons and building innovative engineering solutions.
