@@ -16,7 +16,7 @@ I am an Electronics and Communication Engineering (ECE) student at **Vellore Ins
 
 #### **Electronics & Hardware Design**
 - **Microprocessors & Microcontrollers:** ARM, ESP32, Arduino, Raspberry Pi
-- **CAD & Circuit Design:** KiCAD, Proteus, LTspice, Eagle PCB Design, AutoCAD
+- **CAD & Circuit Design:** KiCAD, LTspice, Eagle PCB Design, AutoCAD, TinkerCAD
 - **Hardware Analysis:** Digital Logic Circuitry, Signal Processing, Microprocessor Architecture
 
 #### **Programming & Software**
