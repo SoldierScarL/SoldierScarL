@@ -15,7 +15,7 @@ I am an Electronics and Communication Engineering (ECE) student at **Vellore Ins
 ### 🛠️ Technical Skills
 
 #### **Electronics & Hardware Design**
-- **Microprocessors & Microcontrollers:** 8085, 8086, ARM, ESP32, Arduino, Raspberry Pi
+- **Microprocessors & Microcontrollers:** ARM, ESP32, Arduino, Raspberry Pi
 - **CAD & Circuit Design:** KiCAD, Proteus, LTspice, Eagle PCB Design, AutoCAD
 - **Hardware Analysis:** Digital Logic Circuitry, Signal Processing, Microprocessor Architecture
 
